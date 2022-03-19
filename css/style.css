@@ -19,7 +19,7 @@ body{
     color: #fff;
   }
   
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 992px) {
     .navbar .nav-item .dropdown-menu{ 
       display: none;
      }
